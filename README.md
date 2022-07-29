@@ -1,0 +1,10 @@
+#   Hosting Landing Page
+
+![screenshot](./screenshot/screenshot.png)
+**Thanush S**
+
+-   This hepls understanding how to structure html and css so that the requirement is achieved.
+-   Took me 5 hours to complete.
+
+---
+[See in action](https://thanushsiva.github.io/11-Hosting-Landing-Page/)
