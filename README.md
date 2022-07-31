@@ -3,7 +3,7 @@
 ![screenshot](./screenshot/screenshot.png)
 **Thanush S**
 
--   This hepls understanding how to structure html and css so that the requirement is achieved.
+-   This helps understanding how to structure html and css so that the requirement is achieved.
 -   Took me 5 hours to complete.
 
 ---
